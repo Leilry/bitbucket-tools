@@ -7,3 +7,5 @@ bit_merged_branch.py python 3 tool which will get all merged branches from one B
 ```bash
 ./bit_merged_branch.py username password http://bitbucket_url project_key
 ```
+
+You need have a permission for delete branches
